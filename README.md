@@ -15,6 +15,7 @@ Este projeto implementa um pipeline de ETL completo para processar dados de vend
 - `exploracao_etl.ipynb`: Jupyter Notebook contendo a análise exploratória, o desenvolvimento da lógica de ETL e as queries SQL para a criação do dashboard.
 - `dados/`: Contém os datasets brutos em formato CSV.
 - `dashboard_data/`: Contém os dados agregados usados como fonte para o dashboard.
+- `schema.sql`: Contém o código SQL para a criação das tabelas no PostgreSQL.
 
 ## 📊 Dashboard
 O dashboard interativo apresenta os principais indicadores de negócio, como receita mensal, top categorias de produtos e distribuição de clientes por estado.
