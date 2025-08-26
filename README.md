@@ -36,8 +36,7 @@ Para replicar este projeto em seu ambiente local, siga os passos abaixo.
 ### 3. Configuração do Projeto
 1.  **Clone o Repositório:**
     ```bash
-    git clone [https://github.com/AndreVVoigt/projeto-etl-olist](https://github.com/AndreVVoigt/projeto-etl-olist)
-    cd seu-repositorio
+    git clone https://github.com/AndreVVoigt/projeto-etl-olist
     ```
 2.  **Instale as Dependências:**
     ```bash
